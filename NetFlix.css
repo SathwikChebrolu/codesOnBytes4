@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #111;
+    padding: 1rem;
+    text-align: center;
+}
+
+.logo {
+    width: 150px;
+    object-fit: contain;
+}
+
+.main {
+    background-color: #111;
+    color: #fff;
+    padding: 1rem;
+}
+
+.banner {
+    background-image: url('C:/Users/aakash/Desktop/SathwikChebrolu OneDrive/OneDrive/Pictures/Saved Pictures/Netflix_logo.jpg');
+    background-size: cover;
+    background-position: center center;
+    height: 400px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.banner-content {
+    max-width: 500px;
+    margin-bottom: 2rem;
+}
